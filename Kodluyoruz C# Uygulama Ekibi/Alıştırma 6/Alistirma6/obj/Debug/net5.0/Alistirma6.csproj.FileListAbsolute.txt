@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\bin\Debug\net5.0\Alistirma6.exe
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\bin\Debug\net5.0\Alistirma6.deps.json
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\bin\Debug\net5.0\Alistirma6.runtimeconfig.json
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\bin\Debug\net5.0\Alistirma6.runtimeconfig.dev.json
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\bin\Debug\net5.0\Alistirma6.dll
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\bin\Debug\net5.0\ref\Alistirma6.dll
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\bin\Debug\net5.0\Alistirma6.pdb
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\Alistirma6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\Alistirma6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\Alistirma6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\Alistirma6.AssemblyInfo.cs
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\Alistirma6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\Alistirma6.dll
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\ref\Alistirma6.dll
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\Alistirma6.pdb
+C:\Users\User\Desktop\Kodluyoruz C# Uygulama Ekibi\Alıştırma 6\Alistirma6\obj\Debug\net5.0\Alistirma6.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+Alıştırma 1: Ad ve soyad bilgisini string değişenlere alarak ekranda yazdırma.
