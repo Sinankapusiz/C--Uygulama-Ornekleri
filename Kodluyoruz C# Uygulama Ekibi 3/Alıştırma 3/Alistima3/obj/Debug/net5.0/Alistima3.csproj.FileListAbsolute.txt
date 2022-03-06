@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\bin\Debug\net5.0\Alistima3.exe
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\bin\Debug\net5.0\Alistima3.deps.json
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\bin\Debug\net5.0\Alistima3.runtimeconfig.json
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\bin\Debug\net5.0\Alistima3.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\bin\Debug\net5.0\Alistima3.dll
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\bin\Debug\net5.0\ref\Alistima3.dll
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\bin\Debug\net5.0\Alistima3.pdb
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\Alistima3.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\Alistima3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\Alistima3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\Alistima3.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\Alistima3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\Alistima3.dll
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\ref\Alistima3.dll
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\Alistima3.pdb
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 3\Alistima3\obj\Debug\net5.0\Alistima3.genruntimeconfig.cache
