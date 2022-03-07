@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\bin\Debug\net5.0\Alistirma8.exe
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\bin\Debug\net5.0\Alistirma8.deps.json
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\bin\Debug\net5.0\Alistirma8.runtimeconfig.json
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\bin\Debug\net5.0\Alistirma8.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\bin\Debug\net5.0\Alistirma8.dll
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\bin\Debug\net5.0\ref\Alistirma8.dll
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\bin\Debug\net5.0\Alistirma8.pdb
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\Alistirma8.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\Alistirma8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\Alistirma8.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\Alistirma8.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\Alistirma8.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\Alistirma8.dll
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\ref\Alistirma8.dll
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\Alistirma8.pdb
+C:\Users\User\Documents\GitHub\C-Uygulama-rnekleri\Kodluyoruz C# Uygulama Ekibi 3\Alıştırma 8\Alistirma8\obj\Debug\net5.0\Alistirma8.genruntimeconfig.cache
